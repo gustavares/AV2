@@ -15,8 +15,6 @@ public class Main {
 	}
 	
 	public static void main(String[] args) {
-//		TicketScanner ticketScannerObject = new TicketScanner();
-//		TicketPrinter ticketPrinterObject = new TicketPrinter();
 		Ticket ticket = new Ticket();
 		File file;
 		
