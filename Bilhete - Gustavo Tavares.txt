@@ -1,0 +1,16 @@
+======================================================================
+PASSENGER INFO: 
+ Name: Gustavo Tavares
+ Document: 666.666.666-66
+---------------------------------------------------------
+TRAVEL INFO: 
+ From: Rio de Janeiro
+ To: Oxford
+ Date: 10/08/2015 - Time: 23:00:00
+ Travel time lenght: 8
+---------------------------------------------------------
+TRAIN PLACEMENT INFO: 
+ Wagon number: 12
+ Seat number: 27
+ Seat class: Primeira
+======================================================================
